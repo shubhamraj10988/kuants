@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kuants/static/css/main.cd74cb20.chunk.css",
+    "main.js": "/kuants/static/js/main.71857fab.chunk.js",
+    "main.js.map": "/kuants/static/js/main.71857fab.chunk.js.map",
+    "runtime-main.js": "/kuants/static/js/runtime-main.7071dfed.js",
+    "runtime-main.js.map": "/kuants/static/js/runtime-main.7071dfed.js.map",
+    "static/js/2.347423e2.chunk.js": "/kuants/static/js/2.347423e2.chunk.js",
+    "static/js/2.347423e2.chunk.js.map": "/kuants/static/js/2.347423e2.chunk.js.map",
+    "static/js/3.23038451.chunk.js": "/kuants/static/js/3.23038451.chunk.js",
+    "static/js/3.23038451.chunk.js.map": "/kuants/static/js/3.23038451.chunk.js.map",
+    "index.html": "/kuants/index.html",
+    "static/css/main.cd74cb20.chunk.css.map": "/kuants/static/css/main.cd74cb20.chunk.css.map",
+    "static/js/2.347423e2.chunk.js.LICENSE.txt": "/kuants/static/js/2.347423e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7071dfed.js",
+    "static/js/2.347423e2.chunk.js",
+    "static/css/main.cd74cb20.chunk.css",
+    "static/js/main.71857fab.chunk.js"
+  ]
+}
